@@ -5,7 +5,8 @@ Data Science of Microsoft.
 
 To have some order here I will leave you this table as an index of this folder.
 
-##Index
+## Index
+
 | Topic | Description | 
 | :---: | :---: | 
 | [What is a Data Scientist](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/1%20What%20are%20Data%20Scientist%20overall.md)    | You can see here what is needed from a Data Scientist, skills and some advice from Microsoft's team. |
