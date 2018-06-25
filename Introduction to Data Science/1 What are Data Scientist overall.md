@@ -31,11 +31,11 @@
 This are some of the advises given by Microsoft's personal. Of course it is a summary of what in my opinion is the most important thing. 
 If you want to see the whole video is [here](https://youtu.be/xCfbzjno1CY)
 
-Gulrez Khan **__ Microsoft Data & Applied Scientist__**
+Gulrez Khan **Microsoft Data & Applied Scientist**
 > Don't wait for your job or school or work to start a project(...)
 
-Danielle Dean **__Microsoft Senior Data Scientist Lead__**
+Danielle Dean **Microsoft Senior Data Scientist Lead**
 >Learn from other people, work on projects you are excited about(...) work with people that inspire you(..)
 
-Robert Musson **__Microsoft Principle Data Scientists, Skype__**
+Robert Musson **Microsoft Principle Data Scientists, Skype**
 >Learn the methology of data science(...) have a good process and repetable to have a good answer.
