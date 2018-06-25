@@ -1,30 +1,30 @@
 # What are Data Scientists overall
 
 ### What you should enjoy about Data Science
--Problem Solver
--Understand their business
--Bring value to the business
--It is challenging
--Work with people with different backgrounds
--Open your mind
+- Problem Solver
+- Understand their business
+- Bring value to the business
+- It is challenging
+- Work with people with different backgrounds
+- Open your mind
 
 ### What does a Data Scientists does
--Input data into information
--Clean data
--Understand context
+- Input data into information
+- Clean data
+- Understand context
 
 ### What do you need to be a Data Scientists
--Be a curious person
--An analytical person
--Passionate person solving problem
--Quick learner
--A experimental and theorical person
+- Be a curious person
+- An analytical person
+- Passionate person solving problem
+- Quick learner
+- A experimental and theorical person
 
 ### Skills needed for Data Scientists
--Know how to use the tools and have the idea how they work
--Statistics and mathematical skills
--Programming skills
--Soft skills
+- Know how to use the tools and have the idea how they work
+- Statistics and mathematical skills
+- Programming skills
+- Soft skills
 
 ### Advice from some Microsoft's Data Scientists
 
