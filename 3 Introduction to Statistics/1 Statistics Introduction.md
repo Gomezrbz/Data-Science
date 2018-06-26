@@ -1,4 +1,4 @@
-# Satatistics
+# Statistics
 
 This is at the core of Data Science. With this you can:
 - Distribution of the data 
@@ -28,7 +28,7 @@ the mean, median and mode are more centrally allocated giving us symmetric tails
 
 As you were able to see in the Image of normal distribution there is some variance between the data and the way to calculate it is the following:
 
-![Variance](https://github.com/Gomezrbz/Data-Science/Images/Variance.PNG)
+![Variance](https://github.com/Gomezrbz/Data-Science/blob/master/Images/Variance.png)
 
 The only problem is that because we end up with something in a different scale we need to get the square root, this one is called standard deviation.
 
