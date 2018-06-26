@@ -47,6 +47,11 @@ Instead of here are some tips you can take in account for this issue:
 
 ### Correlation 
 
+This part is to find relation between data in a quantifiable way. A correlation can be as the following:
 
-
+| Type of correlation |Description			   							 |
+| :---:         	  |:---:  				   							 |
+| **+1**       	  	  |Indicates a positive relationship between the data(one increases and the other one as well)|
+| **0**       	      |There isn't any relation		   | 
+| **-1**      	      |Indicates a negative relationship between data(one increases and the other one decreases) |
 
