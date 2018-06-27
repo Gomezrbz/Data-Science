@@ -20,24 +20,24 @@ You can move the threshold to have less false positives or negatives.
 
 For this metrics you will need the following table
 
-![Table](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/Table.png)
+![Table](https://github.com/Gomezrbz/Data-Science/blob/master/1%20Introduction%20to%20Data%20Science/Images/Table.png)
 
 #### Accuracy
 
-![Accuracy](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/Accuracy.png)
+![Accuracy](https://github.com/Gomezrbz/Data-Science/blob/master/1%20Introduction%20to%20Data%20Science/Images/Accuracy.png)
 
 #### Precision
 
-![Precision](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/Precision.png)
+![Precision](https://github.com/Gomezrbz/Data-Science/blob/master/1%20Introduction%20to%20Data%20Science/Images/Precision.png)
 
 #### Recall
 
-![Recall](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/Recall.png)
+![Recall](https://github.com/Gomezrbz/Data-Science/blob/master/1%20Introduction%20to%20Data%20Science/Images/Recall.png)
 
 #### True Positive Rate and False Positive Rate
 TPR= Recall
 
-![TPR_FPR](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/TPR_FPR.png)
+![TPR_FPR](https://github.com/Gomezrbz/Data-Science/blob/master/1%20Introduction%20to%20Data%20Science/Images/TPR_FPR.png)
 
 # Clustering
 Is a unsupervised technique where you don't have labels to train the model. But you have an algorithm to look for similarities and groups them into clusters.
