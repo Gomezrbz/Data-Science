@@ -43,5 +43,7 @@ CoD Coeficient of Determination
 ![CoD](https://github.com/Gomezrbz/Data-Science/blob/master/Images/CoD.png)
 
 
-
+Mean Absolute Error (MAE) and Root Mean Square Error (RMSE) are metrics that measure the residuals (the variance between predicted and actual values) in the same units as the label itself. Both of these metrics indicate that on average, the model is accurate within the result.
+Relative Absolute Error (RAE) and Relative Squared Error (RSE) are relative measures of error. The closer these values are to zero, the more accurately the model is predicting.
+Coefficient of Determination, sometimes known as R-Squared, is another relative measure of accuracy;the closer it is to 1, the better the model is performing.
 
