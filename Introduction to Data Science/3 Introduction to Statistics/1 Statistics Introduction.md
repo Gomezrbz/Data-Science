@@ -22,18 +22,18 @@ To review this it is important to have the following values.
 To review the frecuency from your dataset you may want to use an histogram. After doing this there are some cases the mode could have a peak in the data set but also 
 the mean, median and mode are more centrally allocated giving us symmetric tails on the left and right, this is called **normal distribution**. You can see an example in the following image.
 
-![Normal Distribution](https://github.com/Gomezrbz/Data-Science/tree/master/Introduction%20to%20Data%20Science/Images/normal_distribution.PNG)
+![Normal Distribution](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/normal_distribution.PNG)
 
 
 ### Measuring Variance
 
 As you were able to see in the Image of normal distribution there is some variance between the data and the way to calculate it is the following:
 
-![Variance](https://github.com/Gomezrbz/Data-Science/tree/master/Introduction%20to%20Data%20Science/Images/Variance.png)
+![Variance](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/Variance.png)
 
 The only problem is that because we end up with something in a different scale we need to get the square root, this one is called standard deviation.
 
-![Standard Deviation](https://github.com/Gomezrbz/Data-Science/tree/master/Introduction%20to%20Data%20Science/Images/Standard_Deviation.png)
+![Standard Deviation](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/Standard_Deviation.png)
 
 The higher is the SD it is the variance between the data. And just for you to know there other two possibilities of types of distribution right and left. This happens when the mean median and mode tend to one extreme or the other and are called skewed Distributions.
 
