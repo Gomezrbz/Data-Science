@@ -31,10 +31,10 @@ RMSE Root Mean Squared Error:
 ![RMSE](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/RMSE.png)
 
 MAE Mean Absolute Error: 
-![MAE](https://github.com/Gomezrbz/Data-Science/tree/master/Introduction%20to%20Data%20Science/Images/MAE.png)
+![MAE](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/MAE.png)
 
 RAE Relative Absolute Error:
-![RAE](https://github.com/Gomezrbz/Data-Science/tree/master/Introduction%20to%20Data%20Science/Images/RAE.png)
+![RAE](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/RAE.png)
 
 RSE Relative Squared Error
 ![RSE](https://github.com/Gomezrbz/Data-Science/tree/master/Introduction%20to%20Data%20Science/Images/RSE.png)
