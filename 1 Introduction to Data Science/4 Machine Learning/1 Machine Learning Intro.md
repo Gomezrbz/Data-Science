@@ -28,19 +28,19 @@ errors.
 ## Metrics for your model
 
 RMSE Root Mean Squared Error:
-![RMSE](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/RMSE.png)
+![RMSE](https://github.com/Gomezrbz/Data-Science/blob/master/1%20Introduction%20to%20Data%20Science/Images/RMSE.png)
 
 MAE Mean Absolute Error: 
-![MAE](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/MAE.png)
+![MAE](https://github.com/Gomezrbz/Data-Science/blob/master/1%20Introduction%20to%20Data%20Science/Images/MAE.png)
 
 RAE Relative Absolute Error:
-![RAE](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/RAE.png)
+![RAE](https://github.com/Gomezrbz/Data-Science/blob/master/1%20Introduction%20to%20Data%20Science/Images/RAE.png)
 
 RSE Relative Squared Error
-![RSE](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/RSE.png)
+![RSE](https://github.com/Gomezrbz/Data-Science/blob/master/1%20Introduction%20to%20Data%20Science/Images/RSE.png)
 
 CoD Coeficient of Determination
-![CoD](https://github.com/Gomezrbz/Data-Science/blob/master/Introduction%20to%20Data%20Science/Images/CoD.png)
+![CoD](https://github.com/Gomezrbz/Data-Science/blob/master/1%20Introduction%20to%20Data%20Science/Images/CoD.png)
 
 
 Mean Absolute Error (MAE) and Root Mean Square Error (RMSE) are metrics that measure the residuals (the variance between predicted and actual values) in the same units as the label itself. Both of these metrics indicate that on average, the model is accurate within the result.
