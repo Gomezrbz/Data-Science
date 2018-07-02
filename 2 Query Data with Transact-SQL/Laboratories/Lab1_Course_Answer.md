@@ -1,4 +1,4 @@
-## Laboratory 1 questions and answers
+# Laboratory 1 questions and answers
 
 1- Familiarize yourself with the Customer table by writing a Transact-SQL query that retrieves all columns for all customers. 
 Answer: 
