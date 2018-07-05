@@ -41,7 +41,7 @@ Additional rows added to results for non-matched rows.
 
 Return all employees and for those who have token orders, return the order amount. Employees without matching orders will display NULL for order amount.
 
-SELECT emp.FirstName, ord.Amount FROM HR.Employee AS emp LEFT [OUTER] JOUN Sales.SalesOrder AS ord ON emp.EmployeeID = ord.EmployeeID
+SELECT emp.FirstName, ord.Amount FROM HR.Employee AS emp LEFT [OUTER] JOIN Sales.SalesOrder AS ord ON emp.EmployeeID = ord.EmployeeID
 
 # Cross Joints
 
