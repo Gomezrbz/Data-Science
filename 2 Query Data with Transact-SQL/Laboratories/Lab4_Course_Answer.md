@@ -44,7 +44,7 @@ ORDER BY c.CompanyName, AddressType;
 
  
 
-4-Write a query that returns the company name of each company that appears in a table of customers with a 'Main Office' address, but not in a table of customers with a 'Shipping' address. 
+4- Write a query that returns the company name of each company that appears in a table of customers with a 'Main Office' address, but not in a table of customers with a 'Shipping' address. 
 Answer: 
 
 SELECT c.CompanyName 
@@ -64,7 +64,7 @@ ON ca.AddressID = a.AddressID
 WHERE ca.AddressType = 'Shipping' 
 ORDER BY c.CompanyName; 
 
-5-Write a query that returns the company name of each company that appears in a table of customers with a 'Main Office' address, and also in a table of customers with a 'Shipping' address. Make sure to use the aliases provided, and default column names elsewhere. 
+5- Write a query that returns the company name of each company that appears in a table of customers with a 'Main Office' address, and also in a table of customers with a 'Shipping' address. Make sure to use the aliases provided, and default column names elsewhere. 
 Answer: 
 
 SELECT c.CompanyName 
